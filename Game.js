@@ -297,7 +297,7 @@ updateGame = delta => {
         if (!pipe.passed && pipe.x < this.player.x){
           pipe.passed = true;
           this.addToScore();
-          if(SPEED <= 8) SPEED += .2
+          if(SPEED <= 8) SPEED += .13
         }
 
 
