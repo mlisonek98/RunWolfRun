@@ -1,8 +1,8 @@
 {
   "expoServerPort": 19000,
-  "packagerPort": 19002,
-  "packagerPid": 87023,
-  "expoServerNgrokUrl": "https://ty-8pz.mlisonek98.flappy-bird-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.ty-8pz.mlisonek98.flappy-bird-starter.exp.direct",
-  "ngrokPid": 87037
+  "packagerPort": 19001,
+  "packagerPid": 4026,
+  "expoServerNgrokUrl": "https://ty-8pz.mlisonek98.runwolfrun.exp.direct",
+  "packagerNgrokUrl": "https://packager.ty-8pz.mlisonek98.runwolfrun.exp.direct",
+  "ngrokPid": 4034
 }
